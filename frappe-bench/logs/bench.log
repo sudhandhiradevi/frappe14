@@ -63,3 +63,10 @@
 2022-11-24 08:23:06,179 INFO /home/e-orchids/.local/bin/bench serve --port 8002
 2022-11-24 08:23:06,233 INFO /home/e-orchids/.local/bin/bench worker --queue short
 2022-11-24 08:23:06,308 INFO /home/e-orchids/.local/bin/bench worker --queue default
+2022-11-24 12:08:41,405 INFO /home/e-orchids/.local/bin/bench start
+2022-11-24 12:08:42,045 INFO /home/e-orchids/.local/bin/bench worker --queue short
+2022-11-24 12:08:42,067 INFO /home/e-orchids/.local/bin/bench watch
+2022-11-24 12:08:42,082 INFO /home/e-orchids/.local/bin/bench worker --queue default
+2022-11-24 12:08:42,132 INFO /home/e-orchids/.local/bin/bench serve --port 8002
+2022-11-24 12:08:42,148 INFO /home/e-orchids/.local/bin/bench schedule
+2022-11-24 12:08:42,203 INFO /home/e-orchids/.local/bin/bench worker --queue long
