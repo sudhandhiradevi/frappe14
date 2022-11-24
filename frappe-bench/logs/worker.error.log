@@ -1195,3 +1195,67 @@ redis.exceptions.ConnectionError: Connection closed by server.
   frappe.db.set_value(
 /home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
   frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
+/home/e-orchids/frappe-bench/apps/frappe/frappe/model/document.py:1166: DeprecationWarning: for_update parameter is deprecated and will be removed in v15.
+  frappe.db.set_value(
