@@ -78,3 +78,13 @@
 2022-11-25 12:53:29,324 INFO /home/e-orchids/.local/bin/bench serve --port 8002
 2022-11-25 12:53:29,400 INFO /home/e-orchids/.local/bin/bench schedule
 2022-11-25 12:53:29,452 INFO /home/e-orchids/.local/bin/bench worker --queue default
+2022-11-25 13:11:24,900 INFO /home/e-orchids/.local/bin/bench start
+2022-11-25 13:13:25,029 INFO /home/e-orchids/.local/bin/bench start
+2022-11-25 13:15:10,168 INFO /home/e-orchids/.local/bin/bench setup socketio
+2022-11-25 13:16:32,575 INFO /home/e-orchids/.local/bin/bench setup redis
+2022-11-25 13:16:45,709 INFO /home/e-orchids/.local/bin/bench setup requirements
+2022-11-25 13:16:45,934 DEBUG /home/e-orchids/gitpush-erp/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2022-11-25 13:16:54,138 WARNING /home/e-orchids/.local/bin/bench setup requirements executed with exit code 1
+2022-11-25 13:18:12,760 INFO /home/e-orchids/.local/bin/bench start
+2022-11-25 13:27:14,895 INFO /home/e-orchids/.local/bin/bench start
+2022-11-25 13:27:25,330 INFO /home/e-orchids/.local/bin/bench start
