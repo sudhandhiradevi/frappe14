@@ -1097,3 +1097,15 @@
 13:05:22 Warm shut down requested
 13:05:22 Warm shut down requested
 13:05:23 Unsubscribing from channel rq:pubsub:cf6f3eeb3c2a47ffbf8a934224c45261.eorchids-HP-Laptop-15-da0xxx.12783.home-e-orchids-frappe-bench:short
+12:53:33 Worker rq:worker:4c1c08074f0440aaa989ffec3feff76c.eorchids-HP-Laptop-15-da0xxx.23027.home-e-orchids-frappe-bench:short: started, version 1.11.1
+12:53:33 Subscribing to channel rq:pubsub:4c1c08074f0440aaa989ffec3feff76c.eorchids-HP-Laptop-15-da0xxx.23027.home-e-orchids-frappe-bench:short
+12:53:33 *** Listening on home-e-orchids-frappe-bench:short...
+12:53:33 Cleaning registries for queue: home-e-orchids-frappe-bench:short
+12:53:33 Worker rq:worker:9a8080abe1b04de9940ff2078c4b3874.eorchids-HP-Laptop-15-da0xxx.23004.home-e-orchids-frappe-bench:long: started, version 1.11.1
+12:53:33 Subscribing to channel rq:pubsub:9a8080abe1b04de9940ff2078c4b3874.eorchids-HP-Laptop-15-da0xxx.23004.home-e-orchids-frappe-bench:long
+12:53:33 *** Listening on home-e-orchids-frappe-bench:long...
+12:53:33 Cleaning registries for queue: home-e-orchids-frappe-bench:long
+12:53:33 Worker rq:worker:a1aff793ddd441f8a775365ce5156940.eorchids-HP-Laptop-15-da0xxx.23031.home-e-orchids-frappe-bench:default: started, version 1.11.1
+12:53:33 Subscribing to channel rq:pubsub:a1aff793ddd441f8a775365ce5156940.eorchids-HP-Laptop-15-da0xxx.23031.home-e-orchids-frappe-bench:default
+12:53:33 *** Listening on home-e-orchids-frappe-bench:default...
+12:53:33 Cleaning registries for queue: home-e-orchids-frappe-bench:default
